@@ -1,0 +1,922 @@
+{"timestamp": "2026-01-22 13:02:36", "level": "SYSTEM", "log": "Monitoring started"}
+
+{"timestamp": "2026-01-22 13:02:36", "level": "SYSTEM", "log": "CPU Usage: 27.3%\nRAM Usage: 80.1%\nRAM Available: 3.13 GB\nDisk | Total: 182.16 GB | Used: 148.58 GB | Free: 33.58 GB"}
+
+{"timestamp": "2026-01-22 13:02:41", "level": "SYSTEM", "log": "CPU Usage: 46.8%\nRAM Usage: 79.6%\nRAM Available: 3.2 GB\nDisk | Total: 182.16 GB | Used: 148.59 GB | Free: 33.57 GB"}
+
+{"timestamp": "2026-01-22 13:02:47", "level": "SYSTEM", "log": "CPU Usage: 37.6%\nRAM Usage: 79.5%\nRAM Available: 3.21 GB\nDisk | Total: 182.16 GB | Used: 148.6 GB | Free: 33.57 GB"}
+
+{"timestamp": "2026-01-22 13:02:52", "level": "SYSTEM", "log": "CPU Usage: 57.3%\nRAM Usage: 80.1%\nRAM Available: 3.12 GB\nDisk | Total: 182.16 GB | Used: 148.61 GB | Free: 33.55 GB"}
+
+{"timestamp": "2026-01-22 13:02:57", "level": "SYSTEM", "log": "CPU Usage: 45.9%\nRAM Usage: 80.0%\nRAM Available: 3.13 GB\nDisk | Total: 182.16 GB | Used: 148.62 GB | Free: 33.55 GB"}
+
+{"timestamp": "2026-01-22 13:02:58", "level": "SYSTEM", "log": "Monitoring started"}
+
+{"timestamp": "2026-01-22 13:02:58", "level": "SYSTEM", "log": "CPU Usage: 0.0%\nRAM Usage: 79.9%\nRAM Available: 3.15 GB\nDisk | Total: 182.16 GB | Used: 148.62 GB | Free: 33.54 GB"}
+
+{"timestamp": "2026-01-22 13:03:01", "level": "SYSTEM", "log": "Monitoring started"}
+
+{"timestamp": "2026-01-22 13:03:01", "level": "SYSTEM", "log": "CPU Usage: 0.0%\nRAM Usage: 80.1%\nRAM Available: 3.12 GB\nDisk | Total: 182.16 GB | Used: 148.62 GB | Free: 33.54 GB"}
+
+{"timestamp": "2026-01-22 13:03:02", "level": "SYSTEM", "log": "CPU Usage: 43.0%\nRAM Usage: 80.3%\nRAM Available: 3.09 GB\nDisk | Total: 182.16 GB | Used: 148.62 GB | Free: 33.54 GB"}
+
+{"timestamp": "2026-01-22 13:03:03", "level": "SYSTEM", "log": "CPU Usage: 53.0%\nRAM Usage: 80.7%\nRAM Available: 3.02 GB\nDisk | Total: 182.16 GB | Used: 148.62 GB | Free: 33.54 GB"}
+
+{"timestamp": "2026-01-22 13:03:06", "level": "SYSTEM", "log": "CPU Usage: 49.7%\nRAM Usage: 80.7%\nRAM Available: 3.02 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.54 GB"}
+
+{"timestamp": "2026-01-22 13:03:07", "level": "SYSTEM", "log": "CPU Usage: 48.3%\nRAM Usage: 80.8%\nRAM Available: 3.01 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.54 GB"}
+
+{"timestamp": "2026-01-22 13:03:08", "level": "SYSTEM", "log": "CPU Usage: 44.2%\nRAM Usage: 80.8%\nRAM Available: 3.0 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:11", "level": "SYSTEM", "log": "CPU Usage: 43.3%\nRAM Usage: 80.8%\nRAM Available: 3.01 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:12", "level": "SYSTEM", "log": "CPU Usage: 45.1%\nRAM Usage: 80.8%\nRAM Available: 3.02 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:13", "level": "SYSTEM", "log": "CPU Usage: 44.5%\nRAM Usage: 80.5%\nRAM Available: 3.05 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:16", "level": "SYSTEM", "log": "CPU Usage: 42.8%\nRAM Usage: 80.6%\nRAM Available: 3.04 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:17", "level": "SYSTEM", "log": "CPU Usage: 41.3%\nRAM Usage: 80.3%\nRAM Available: 3.08 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:18", "level": "SYSTEM", "log": "CPU Usage: 42.2%\nRAM Usage: 80.4%\nRAM Available: 3.07 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:21", "level": "SYSTEM", "log": "CPU Usage: 40.0%\nRAM Usage: 80.3%\nRAM Available: 3.08 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:22", "level": "SYSTEM", "log": "CPU Usage: 39.8%\nRAM Usage: 80.2%\nRAM Available: 3.11 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:23", "level": "SYSTEM", "log": "CPU Usage: 36.7%\nRAM Usage: 79.9%\nRAM Available: 3.15 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:26", "level": "SYSTEM", "log": "CPU Usage: 38.1%\nRAM Usage: 80.2%\nRAM Available: 3.11 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:27", "level": "SYSTEM", "log": "CPU Usage: 37.3%\nRAM Usage: 80.1%\nRAM Available: 3.12 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:29", "level": "SYSTEM", "log": "CPU Usage: 40.3%\nRAM Usage: 80.3%\nRAM Available: 3.08 GB\nDisk | Total: 182.16 GB | Used: 148.63 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:31", "level": "SYSTEM", "log": "CPU Usage: 42.6%\nRAM Usage: 80.3%\nRAM Available: 3.09 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:32", "level": "SYSTEM", "log": "CPU Usage: 41.1%\nRAM Usage: 80.3%\nRAM Available: 3.08 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.53 GB"}
+
+{"timestamp": "2026-01-22 13:03:34", "level": "SYSTEM", "log": "CPU Usage: 39.9%\nRAM Usage: 80.6%\nRAM Available: 3.05 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.52 GB"}
+
+{"timestamp": "2026-01-22 13:03:36", "level": "SYSTEM", "log": "CPU Usage: 37.4%\nRAM Usage: 80.7%\nRAM Available: 3.03 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.52 GB"}
+
+{"timestamp": "2026-01-22 13:03:37", "level": "SYSTEM", "log": "CPU Usage: 40.2%\nRAM Usage: 80.5%\nRAM Available: 3.06 GB\nDisk | Total: 182.16 GB | Used: 148.64 GB | Free: 33.52 GB"}
+
+{"timestamp": "2026-01-22 13:03:39", "level": "SYSTEM", "log": "CPU Usage: 37.3%\nRAM Usage: 80.5%\nRAM Available: 3.06 GB\nDisk | Total: 182.16 GB | Used: 148.65 GB | Free: 33.52 GB"}
+
+{"timestamp": "2026-01-22 13:03:41", "level": "SYSTEM", "log": "CPU Usage: 37.1%\nRAM Usage: 80.6%\nRAM Available: 3.04 GB\nDisk | Total: 182.16 GB | Used: 148.65 GB | Free: 33.52 GB"}
+
+{"timestamp": "2026-01-22 13:03:42", "level": "SYSTEM", "log": "CPU Usage: 33.8%\nRAM Usage: 80.6%\nRAM Available: 3.04 GB\nDisk | Total: 182.16 GB | Used: 148.65 GB | Free: 33.52 GB"}
+
+{"timestamp": "2026-01-22 13:03:44", "level": "SYSTEM", "log": "CPU Usage: 42.2%\nRAM Usage: 79.8%\nRAM Available: 3.16 GB\nDisk | Total: 182.16 GB | Used: 148.65 GB | Free: 33.51 GB"}
+
+{"timestamp": "2026-01-22 13:03:46", "level": "SYSTEM", "log": "CPU Usage: 45.5%\nRAM Usage: 79.3%\nRAM Available: 3.25 GB\nDisk | Total: 182.16 GB | Used: 148.65 GB | Free: 33.51 GB"}
+
+{"timestamp": "2026-01-22 13:03:47", "level": "SYSTEM", "log": "CPU Usage: 48.5%\nRAM Usage: 79.1%\nRAM Available: 3.27 GB\nDisk | Total: 182.16 GB | Used: 148.66 GB | Free: 33.51 GB"}
+
+{"timestamp": "2026-01-22 13:03:49", "level": "SYSTEM", "log": "CPU Usage: 45.5%\nRAM Usage: 79.0%\nRAM Available: 3.29 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:03:51", "level": "SYSTEM", "log": "CPU Usage: 45.3%\nRAM Usage: 78.5%\nRAM Available: 3.37 GB\nDisk | Total: 182.16 GB | Used: 148.72 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:03:52", "level": "SYSTEM", "log": "CPU Usage: 43.9%\nRAM Usage: 79.6%\nRAM Available: 3.2 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:03:54", "level": "SYSTEM", "log": "CPU Usage: 35.3%\nRAM Usage: 79.6%\nRAM Available: 3.19 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:03:56", "level": "SYSTEM", "log": "CPU Usage: 33.7%\nRAM Usage: 79.9%\nRAM Available: 3.15 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:03:57", "level": "SYSTEM", "log": "CPU Usage: 33.3%\nRAM Usage: 79.8%\nRAM Available: 3.16 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:03:59", "level": "SYSTEM", "log": "CPU Usage: 35.6%\nRAM Usage: 79.7%\nRAM Available: 3.19 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:04:01", "level": "SYSTEM", "log": "CPU Usage: 31.5%\nRAM Usage: 79.7%\nRAM Available: 3.18 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:04:02", "level": "SYSTEM", "log": "CPU Usage: 29.8%\nRAM Usage: 79.7%\nRAM Available: 3.19 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:04:04", "level": "SYSTEM", "log": "CPU Usage: 30.4%\nRAM Usage: 79.6%\nRAM Available: 3.19 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:04:06", "level": "SYSTEM", "log": "CPU Usage: 29.5%\nRAM Usage: 79.6%\nRAM Available: 3.2 GB\nDisk | Total: 182.16 GB | Used: 148.71 GB | Free: 33.45 GB"}
+
+{"timestamp": "2026-01-22 13:04:07", "level": "SYSTEM", "log": "CPU Usage: 33.3%\nRAM Usage: 79.8%\nRAM Available: 3.16 GB\nDisk | Total: 182.16 GB | Used: 148.77 GB | Free: 33.39 GB"}
+
+{"timestamp": "2026-01-22 13:04:09", "level": "SYSTEM", "log": "CPU Usage: 40.0%\nRAM Usage: 78.7%\nRAM Available: 3.34 GB\nDisk | Total: 182.16 GB | Used: 148.77 GB | Free: 33.39 GB"}
+
+{"timestamp": "2026-01-22 13:04:11", "level": "SYSTEM", "log": "CPU Usage: 44.7%\nRAM Usage: 78.6%\nRAM Available: 3.36 GB\nDisk | Total: 182.16 GB | Used: 148.77 GB | Free: 33.39 GB"}
+
+{"timestamp": "2026-01-22 13:04:12", "level": "SYSTEM", "log": "CPU Usage: 43.4%\nRAM Usage: 78.5%\nRAM Available: 3.37 GB\nDisk | Total: 182.16 GB | Used: 148.77 GB | Free: 33.39 GB"}
+
+{"timestamp": "2026-01-22 13:04:16", "level": "ALERT", "log": "System Resource Monitor stopped by user"}
+
+{"timestamp": "2026-01-22 13:04:16", "level": "ERROR", "log": "Application terminated using KeyboardInterrupt"}
+
+{"timestamp": "2026-01-22 13:04:17", "level": "SYSTEM", "log": "Initializing monitor controller"}
+
+{"timestamp": "2026-01-22 13:04:17", "level": "ERROR", "log": "Exception in MonitorController.start_monitors: 'Monitoring' object has no attribute 'cpu_monitor'"}
+
+{"timestamp": "2026-01-22 13:04:17", "level": "ALERT", "log": "Stopping all monitors"}
+
+{"timestamp": "2026-01-22 13:04:17", "level": "ERROR", "log": "Monitoring stopped by user"}
+
+{"timestamp": "2026-01-22 13:04:17", "level": "SYSTEM", "log": "System Resource Monitor started"}
+
+{"timestamp": "2026-01-22 13:04:17", "level": "ALERT", "log": "System Resource Monitor stopped by user"}
+
+{"timestamp": "2026-01-22 13:04:17", "level": "ERROR", "log": "Application terminated using KeyboardInterrupt"}
+
+{"timestamp": "2026-01-22 14:48:29", "level": "SYSTEM", "log": "Monitoring started"}
+
+{"timestamp": "2026-01-22 14:48:29", "level": "SYSTEM", "log": "CPU Usage: 84.0%\nRAM Usage: 71.9%\nRAM Available: 4.4 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:48:34", "level": "SYSTEM", "log": "CPU Usage: 81.3%\nRAM Usage: 74.8%\nRAM Available: 3.95 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:48:38", "level": "SYSTEM", "log": "Monitoring started"}
+
+{"timestamp": "2026-01-22 14:48:38", "level": "SYSTEM", "log": "CPU Usage: 0.0%\nRAM Usage: 75.1%\nRAM Available: 3.91 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:48:39", "level": "SYSTEM", "log": "Monitoring started"}
+
+{"timestamp": "2026-01-22 14:48:39", "level": "SYSTEM", "log": "CPU Usage: 0.0%\nRAM Usage: 75.3%\nRAM Available: 3.88 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:48:39", "level": "SYSTEM", "log": "CPU Usage: 63.9%\nRAM Usage: 75.3%\nRAM Available: 3.88 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.04 GB"}
+
+{"timestamp": "2026-01-22 14:48:43", "level": "SYSTEM", "log": "CPU Usage: 56.1%\nRAM Usage: 75.4%\nRAM Available: 3.85 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.08 GB"}
+
+{"timestamp": "2026-01-22 14:48:44", "level": "SYSTEM", "log": "CPU Usage: 55.6%\nRAM Usage: 75.5%\nRAM Available: 3.84 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:48:44", "level": "SYSTEM", "log": "CPU Usage: 58.7%\nRAM Usage: 75.8%\nRAM Available: 3.79 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:48:48", "level": "SYSTEM", "log": "CPU Usage: 59.1%\nRAM Usage: 75.6%\nRAM Available: 3.82 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.08 GB"}
+
+{"timestamp": "2026-01-22 14:48:49", "level": "SYSTEM", "log": "CPU Usage: 55.5%\nRAM Usage: 75.2%\nRAM Available: 3.89 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.08 GB"}
+
+{"timestamp": "2026-01-22 14:48:49", "level": "SYSTEM", "log": "CPU Usage: 50.8%\nRAM Usage: 75.2%\nRAM Available: 3.89 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.08 GB"}
+
+{"timestamp": "2026-01-22 14:48:53", "level": "SYSTEM", "log": "CPU Usage: 46.4%\nRAM Usage: 75.1%\nRAM Available: 3.9 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.08 GB"}
+
+{"timestamp": "2026-01-22 14:48:54", "level": "SYSTEM", "log": "CPU Usage: 46.3%\nRAM Usage: 75.2%\nRAM Available: 3.89 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.08 GB"}
+
+{"timestamp": "2026-01-22 14:48:54", "level": "SYSTEM", "log": "CPU Usage: 48.0%\nRAM Usage: 75.4%\nRAM Available: 3.86 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.08 GB"}
+
+{"timestamp": "2026-01-22 14:48:58", "level": "SYSTEM", "log": "CPU Usage: 49.5%\nRAM Usage: 75.4%\nRAM Available: 3.85 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:48:59", "level": "SYSTEM", "log": "CPU Usage: 49.0%\nRAM Usage: 75.5%\nRAM Available: 3.85 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:48:59", "level": "SYSTEM", "log": "CPU Usage: 46.6%\nRAM Usage: 74.7%\nRAM Available: 3.97 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:03", "level": "SYSTEM", "log": "CPU Usage: 46.0%\nRAM Usage: 73.9%\nRAM Available: 4.1 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:04", "level": "SYSTEM", "log": "CPU Usage: 47.1%\nRAM Usage: 73.9%\nRAM Available: 4.1 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:04", "level": "SYSTEM", "log": "CPU Usage: 45.9%\nRAM Usage: 73.9%\nRAM Available: 4.09 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:08", "level": "SYSTEM", "log": "CPU Usage: 42.7%\nRAM Usage: 74.0%\nRAM Available: 4.08 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:49:09", "level": "SYSTEM", "log": "CPU Usage: 40.4%\nRAM Usage: 73.9%\nRAM Available: 4.09 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:09", "level": "SYSTEM", "log": "CPU Usage: 39.9%\nRAM Usage: 73.9%\nRAM Available: 4.1 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:13", "level": "SYSTEM", "log": "CPU Usage: 28.6%\nRAM Usage: 73.8%\nRAM Available: 4.11 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:14", "level": "SYSTEM", "log": "CPU Usage: 28.8%\nRAM Usage: 73.7%\nRAM Available: 4.12 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:14", "level": "SYSTEM", "log": "CPU Usage: 28.0%\nRAM Usage: 73.7%\nRAM Available: 4.12 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:18", "level": "SYSTEM", "log": "CPU Usage: 32.6%\nRAM Usage: 73.3%\nRAM Available: 4.19 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:19", "level": "SYSTEM", "log": "CPU Usage: 29.7%\nRAM Usage: 73.2%\nRAM Available: 4.2 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:19", "level": "SYSTEM", "log": "CPU Usage: 30.2%\nRAM Usage: 73.0%\nRAM Available: 4.24 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:23", "level": "SYSTEM", "log": "CPU Usage: 29.0%\nRAM Usage: 73.0%\nRAM Available: 4.23 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:24", "level": "SYSTEM", "log": "CPU Usage: 29.5%\nRAM Usage: 72.9%\nRAM Available: 4.24 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:24", "level": "SYSTEM", "log": "CPU Usage: 29.5%\nRAM Usage: 72.8%\nRAM Available: 4.26 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:28", "level": "SYSTEM", "log": "CPU Usage: 28.4%\nRAM Usage: 72.9%\nRAM Available: 4.24 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:29", "level": "SYSTEM", "log": "CPU Usage: 28.5%\nRAM Usage: 72.9%\nRAM Available: 4.26 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:29", "level": "SYSTEM", "log": "CPU Usage: 27.7%\nRAM Usage: 72.8%\nRAM Available: 4.26 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:33", "level": "SYSTEM", "log": "CPU Usage: 29.0%\nRAM Usage: 72.8%\nRAM Available: 4.27 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:34", "level": "SYSTEM", "log": "CPU Usage: 28.6%\nRAM Usage: 72.7%\nRAM Available: 4.28 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:34", "level": "SYSTEM", "log": "CPU Usage: 29.0%\nRAM Usage: 72.6%\nRAM Available: 4.29 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:38", "level": "SYSTEM", "log": "CPU Usage: 30.9%\nRAM Usage: 72.5%\nRAM Available: 4.32 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:39", "level": "SYSTEM", "log": "CPU Usage: 31.7%\nRAM Usage: 72.4%\nRAM Available: 4.33 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:40", "level": "SYSTEM", "log": "CPU Usage: 31.5%\nRAM Usage: 72.4%\nRAM Available: 4.33 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:43", "level": "SYSTEM", "log": "CPU Usage: 25.4%\nRAM Usage: 72.4%\nRAM Available: 4.33 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:44", "level": "SYSTEM", "log": "CPU Usage: 28.3%\nRAM Usage: 72.5%\nRAM Available: 4.32 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:45", "level": "SYSTEM", "log": "CPU Usage: 30.7%\nRAM Usage: 72.5%\nRAM Available: 4.31 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:48", "level": "SYSTEM", "log": "CPU Usage: 39.9%\nRAM Usage: 72.5%\nRAM Available: 4.3 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:49", "level": "SYSTEM", "log": "CPU Usage: 39.5%\nRAM Usage: 72.4%\nRAM Available: 4.33 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:50", "level": "SYSTEM", "log": "CPU Usage: 39.3%\nRAM Usage: 72.2%\nRAM Available: 4.35 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:53", "level": "SYSTEM", "log": "CPU Usage: 35.5%\nRAM Usage: 72.3%\nRAM Available: 4.35 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:54", "level": "SYSTEM", "log": "CPU Usage: 33.9%\nRAM Usage: 72.3%\nRAM Available: 4.35 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:55", "level": "SYSTEM", "log": "CPU Usage: 31.7%\nRAM Usage: 72.2%\nRAM Available: 4.36 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:58", "level": "SYSTEM", "log": "CPU Usage: 30.2%\nRAM Usage: 72.1%\nRAM Available: 4.37 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:49:59", "level": "SYSTEM", "log": "CPU Usage: 29.3%\nRAM Usage: 72.1%\nRAM Available: 4.37 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:00", "level": "SYSTEM", "log": "CPU Usage: 30.7%\nRAM Usage: 72.2%\nRAM Available: 4.36 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:03", "level": "SYSTEM", "log": "CPU Usage: 31.5%\nRAM Usage: 71.9%\nRAM Available: 4.41 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:04", "level": "SYSTEM", "log": "CPU Usage: 31.4%\nRAM Usage: 71.8%\nRAM Available: 4.43 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:05", "level": "SYSTEM", "log": "CPU Usage: 29.1%\nRAM Usage: 71.7%\nRAM Available: 4.43 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:08", "level": "SYSTEM", "log": "CPU Usage: 26.6%\nRAM Usage: 71.8%\nRAM Available: 4.43 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:09", "level": "SYSTEM", "log": "CPU Usage: 27.0%\nRAM Usage: 71.7%\nRAM Available: 4.43 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:10", "level": "SYSTEM", "log": "CPU Usage: 29.0%\nRAM Usage: 71.8%\nRAM Available: 4.43 GB\nDisk | Total: 182.16 GB | Used: 148.09 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:13", "level": "SYSTEM", "log": "CPU Usage: 32.3%\nRAM Usage: 71.8%\nRAM Available: 4.42 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:14", "level": "SYSTEM", "log": "CPU Usage: 33.3%\nRAM Usage: 71.5%\nRAM Available: 4.46 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:15", "level": "SYSTEM", "log": "CPU Usage: 32.1%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:18", "level": "SYSTEM", "log": "CPU Usage: 24.4%\nRAM Usage: 71.7%\nRAM Available: 4.43 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:19", "level": "SYSTEM", "log": "CPU Usage: 24.6%\nRAM Usage: 71.7%\nRAM Available: 4.43 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:20", "level": "SYSTEM", "log": "CPU Usage: 26.2%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:23", "level": "SYSTEM", "log": "CPU Usage: 33.4%\nRAM Usage: 71.0%\nRAM Available: 4.54 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:24", "level": "SYSTEM", "log": "CPU Usage: 31.1%\nRAM Usage: 71.0%\nRAM Available: 4.55 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:25", "level": "SYSTEM", "log": "CPU Usage: 28.6%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:50:28", "level": "SYSTEM", "log": "CPU Usage: 23.1%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:29", "level": "SYSTEM", "log": "CPU Usage: 24.6%\nRAM Usage: 70.9%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:30", "level": "SYSTEM", "log": "CPU Usage: 25.9%\nRAM Usage: 70.8%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:33", "level": "SYSTEM", "log": "CPU Usage: 27.2%\nRAM Usage: 70.9%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:34", "level": "SYSTEM", "log": "CPU Usage: 24.9%\nRAM Usage: 70.9%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:35", "level": "SYSTEM", "log": "CPU Usage: 23.0%\nRAM Usage: 70.8%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:38", "level": "SYSTEM", "log": "CPU Usage: 23.2%\nRAM Usage: 70.8%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:39", "level": "SYSTEM", "log": "CPU Usage: 24.2%\nRAM Usage: 70.8%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:40", "level": "SYSTEM", "log": "CPU Usage: 25.8%\nRAM Usage: 70.8%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:43", "level": "SYSTEM", "log": "CPU Usage: 28.6%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:44", "level": "SYSTEM", "log": "CPU Usage: 27.1%\nRAM Usage: 70.9%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:45", "level": "SYSTEM", "log": "CPU Usage: 26.8%\nRAM Usage: 70.9%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:48", "level": "SYSTEM", "log": "CPU Usage: 23.9%\nRAM Usage: 70.9%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:49", "level": "SYSTEM", "log": "CPU Usage: 25.9%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:50", "level": "SYSTEM", "log": "CPU Usage: 25.9%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:53", "level": "SYSTEM", "log": "CPU Usage: 26.2%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:54", "level": "SYSTEM", "log": "CPU Usage: 25.2%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:55", "level": "SYSTEM", "log": "CPU Usage: 25.4%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:58", "level": "SYSTEM", "log": "CPU Usage: 25.6%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:50:59", "level": "SYSTEM", "log": "CPU Usage: 26.4%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:00", "level": "SYSTEM", "log": "CPU Usage: 27.4%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:03", "level": "SYSTEM", "log": "CPU Usage: 26.6%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:04", "level": "SYSTEM", "log": "CPU Usage: 26.5%\nRAM Usage: 70.6%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:05", "level": "SYSTEM", "log": "CPU Usage: 25.5%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:08", "level": "SYSTEM", "log": "CPU Usage: 26.3%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:09", "level": "SYSTEM", "log": "CPU Usage: 26.1%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:10", "level": "SYSTEM", "log": "CPU Usage: 25.8%\nRAM Usage: 70.6%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:13", "level": "SYSTEM", "log": "CPU Usage: 22.2%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:14", "level": "SYSTEM", "log": "CPU Usage: 22.9%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:15", "level": "SYSTEM", "log": "CPU Usage: 23.4%\nRAM Usage: 70.6%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:18", "level": "SYSTEM", "log": "CPU Usage: 26.6%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:19", "level": "SYSTEM", "log": "CPU Usage: 26.0%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:20", "level": "SYSTEM", "log": "CPU Usage: 24.7%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:23", "level": "SYSTEM", "log": "CPU Usage: 21.9%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:24", "level": "SYSTEM", "log": "CPU Usage: 21.1%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:25", "level": "SYSTEM", "log": "CPU Usage: 21.7%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:28", "level": "SYSTEM", "log": "CPU Usage: 23.9%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:29", "level": "SYSTEM", "log": "CPU Usage: 23.6%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:30", "level": "SYSTEM", "log": "CPU Usage: 24.4%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:33", "level": "SYSTEM", "log": "CPU Usage: 23.8%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:34", "level": "SYSTEM", "log": "CPU Usage: 24.4%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:35", "level": "SYSTEM", "log": "CPU Usage: 24.3%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:38", "level": "SYSTEM", "log": "CPU Usage: 25.7%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:39", "level": "SYSTEM", "log": "CPU Usage: 26.1%\nRAM Usage: 70.7%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:40", "level": "SYSTEM", "log": "CPU Usage: 26.7%\nRAM Usage: 69.9%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:43", "level": "SYSTEM", "log": "CPU Usage: 29.9%\nRAM Usage: 70.0%\nRAM Available: 4.7 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:44", "level": "SYSTEM", "log": "CPU Usage: 30.5%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:45", "level": "SYSTEM", "log": "CPU Usage: 29.3%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:48", "level": "SYSTEM", "log": "CPU Usage: 21.8%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:49", "level": "SYSTEM", "log": "CPU Usage: 21.3%\nRAM Usage: 70.0%\nRAM Available: 4.7 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:50", "level": "SYSTEM", "log": "CPU Usage: 21.8%\nRAM Usage: 70.0%\nRAM Available: 4.7 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:53", "level": "SYSTEM", "log": "CPU Usage: 30.3%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.04 GB"}
+
+{"timestamp": "2026-01-22 14:51:54", "level": "SYSTEM", "log": "CPU Usage: 32.7%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:55", "level": "SYSTEM", "log": "CPU Usage: 34.5%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:58", "level": "SYSTEM", "log": "CPU Usage: 44.7%\nRAM Usage: 70.8%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:51:59", "level": "SYSTEM", "log": "CPU Usage: 46.8%\nRAM Usage: 70.8%\nRAM Available: 4.58 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:52:00", "level": "SYSTEM", "log": "CPU Usage: 47.4%\nRAM Usage: 70.6%\nRAM Available: 4.6 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:52:03", "level": "SYSTEM", "log": "CPU Usage: 41.9%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:52:04", "level": "SYSTEM", "log": "CPU Usage: 35.9%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:52:05", "level": "SYSTEM", "log": "CPU Usage: 33.8%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:53:37", "level": "SYSTEM", "log": "CPU Usage: 1.9%\nRAM Usage: 70.2%\nRAM Available: 4.68 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:53:37", "level": "SYSTEM", "log": "CPU Usage: 1.7%\nRAM Usage: 70.2%\nRAM Available: 4.68 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:53:37", "level": "SYSTEM", "log": "CPU Usage: 2.0%\nRAM Usage: 70.2%\nRAM Available: 4.68 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:53:42", "level": "SYSTEM", "log": "CPU Usage: 48.6%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:42", "level": "SYSTEM", "log": "CPU Usage: 48.3%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:42", "level": "SYSTEM", "log": "CPU Usage: 48.4%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:47", "level": "SYSTEM", "log": "CPU Usage: 50.7%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:47", "level": "SYSTEM", "log": "CPU Usage: 50.6%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:47", "level": "SYSTEM", "log": "CPU Usage: 50.6%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:52", "level": "SYSTEM", "log": "CPU Usage: 36.1%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:52", "level": "SYSTEM", "log": "CPU Usage: 36.1%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:52", "level": "SYSTEM", "log": "CPU Usage: 36.0%\nRAM Usage: 71.2%\nRAM Available: 4.52 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:57", "level": "SYSTEM", "log": "CPU Usage: 27.8%\nRAM Usage: 71.3%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:57", "level": "SYSTEM", "log": "CPU Usage: 27.7%\nRAM Usage: 71.3%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:53:57", "level": "SYSTEM", "log": "CPU Usage: 27.6%\nRAM Usage: 71.3%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:02", "level": "SYSTEM", "log": "CPU Usage: 27.5%\nRAM Usage: 71.2%\nRAM Available: 4.52 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:02", "level": "SYSTEM", "log": "CPU Usage: 26.9%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:02", "level": "SYSTEM", "log": "CPU Usage: 26.8%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:07", "level": "SYSTEM", "log": "CPU Usage: 24.0%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:07", "level": "SYSTEM", "log": "CPU Usage: 24.9%\nRAM Usage: 71.2%\nRAM Available: 4.52 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:07", "level": "SYSTEM", "log": "CPU Usage: 25.1%\nRAM Usage: 71.2%\nRAM Available: 4.52 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:12", "level": "SYSTEM", "log": "CPU Usage: 29.5%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:12", "level": "SYSTEM", "log": "CPU Usage: 28.9%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:12", "level": "SYSTEM", "log": "CPU Usage: 28.7%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:17", "level": "SYSTEM", "log": "CPU Usage: 25.3%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:17", "level": "SYSTEM", "log": "CPU Usage: 25.8%\nRAM Usage: 71.2%\nRAM Available: 4.52 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:17", "level": "SYSTEM", "log": "CPU Usage: 25.9%\nRAM Usage: 71.2%\nRAM Available: 4.52 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:22", "level": "SYSTEM", "log": "CPU Usage: 24.8%\nRAM Usage: 71.0%\nRAM Available: 4.54 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:22", "level": "SYSTEM", "log": "CPU Usage: 24.6%\nRAM Usage: 71.0%\nRAM Available: 4.54 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:22", "level": "SYSTEM", "log": "CPU Usage: 24.6%\nRAM Usage: 71.0%\nRAM Available: 4.54 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:27", "level": "SYSTEM", "log": "CPU Usage: 25.5%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:27", "level": "SYSTEM", "log": "CPU Usage: 25.5%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:27", "level": "SYSTEM", "log": "CPU Usage: 25.4%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:32", "level": "SYSTEM", "log": "CPU Usage: 22.3%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:32", "level": "SYSTEM", "log": "CPU Usage: 22.3%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:32", "level": "SYSTEM", "log": "CPU Usage: 22.5%\nRAM Usage: 70.9%\nRAM Available: 4.56 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:37", "level": "SYSTEM", "log": "CPU Usage: 28.7%\nRAM Usage: 70.8%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:37", "level": "SYSTEM", "log": "CPU Usage: 28.5%\nRAM Usage: 70.8%\nRAM Available: 4.57 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:37", "level": "SYSTEM", "log": "CPU Usage: 28.4%\nRAM Usage: 70.8%\nRAM Available: 4.58 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:42", "level": "SYSTEM", "log": "CPU Usage: 27.6%\nRAM Usage: 70.8%\nRAM Available: 4.58 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:42", "level": "SYSTEM", "log": "CPU Usage: 27.6%\nRAM Usage: 70.8%\nRAM Available: 4.58 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:42", "level": "SYSTEM", "log": "CPU Usage: 27.5%\nRAM Usage: 70.8%\nRAM Available: 4.58 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:47", "level": "SYSTEM", "log": "CPU Usage: 25.1%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:47", "level": "SYSTEM", "log": "CPU Usage: 25.2%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:47", "level": "SYSTEM", "log": "CPU Usage: 25.3%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:52", "level": "SYSTEM", "log": "CPU Usage: 25.0%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:52", "level": "SYSTEM", "log": "CPU Usage: 25.3%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:52", "level": "SYSTEM", "log": "CPU Usage: 25.3%\nRAM Usage: 70.7%\nRAM Available: 4.59 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:57", "level": "SYSTEM", "log": "CPU Usage: 23.4%\nRAM Usage: 70.8%\nRAM Available: 4.58 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:57", "level": "SYSTEM", "log": "CPU Usage: 23.1%\nRAM Usage: 70.8%\nRAM Available: 4.58 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:54:57", "level": "SYSTEM", "log": "CPU Usage: 23.0%\nRAM Usage: 70.8%\nRAM Available: 4.58 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:02", "level": "SYSTEM", "log": "CPU Usage: 26.0%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:02", "level": "SYSTEM", "log": "CPU Usage: 25.8%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:02", "level": "SYSTEM", "log": "CPU Usage: 25.8%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:07", "level": "SYSTEM", "log": "CPU Usage: 29.0%\nRAM Usage: 70.6%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:07", "level": "SYSTEM", "log": "CPU Usage: 29.8%\nRAM Usage: 70.6%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:07", "level": "SYSTEM", "log": "CPU Usage: 30.1%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:12", "level": "SYSTEM", "log": "CPU Usage: 35.0%\nRAM Usage: 70.5%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:12", "level": "SYSTEM", "log": "CPU Usage: 34.3%\nRAM Usage: 70.5%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:12", "level": "SYSTEM", "log": "CPU Usage: 34.1%\nRAM Usage: 70.5%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:17", "level": "SYSTEM", "log": "CPU Usage: 27.8%\nRAM Usage: 70.4%\nRAM Available: 4.64 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:17", "level": "SYSTEM", "log": "CPU Usage: 27.9%\nRAM Usage: 70.4%\nRAM Available: 4.64 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:17", "level": "SYSTEM", "log": "CPU Usage: 27.8%\nRAM Usage: 70.4%\nRAM Available: 4.64 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:22", "level": "SYSTEM", "log": "CPU Usage: 18.5%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:22", "level": "SYSTEM", "log": "CPU Usage: 18.7%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:22", "level": "SYSTEM", "log": "CPU Usage: 18.6%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:27", "level": "SYSTEM", "log": "CPU Usage: 21.1%\nRAM Usage: 70.3%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:27", "level": "SYSTEM", "log": "CPU Usage: 21.1%\nRAM Usage: 70.3%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:27", "level": "SYSTEM", "log": "CPU Usage: 21.3%\nRAM Usage: 70.3%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:32", "level": "SYSTEM", "log": "CPU Usage: 18.7%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:32", "level": "SYSTEM", "log": "CPU Usage: 18.3%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:32", "level": "SYSTEM", "log": "CPU Usage: 18.1%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:37", "level": "SYSTEM", "log": "CPU Usage: 19.9%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:37", "level": "SYSTEM", "log": "CPU Usage: 20.1%\nRAM Usage: 70.2%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:37", "level": "SYSTEM", "log": "CPU Usage: 20.1%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:42", "level": "SYSTEM", "log": "CPU Usage: 19.3%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:42", "level": "SYSTEM", "log": "CPU Usage: 19.1%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:42", "level": "SYSTEM", "log": "CPU Usage: 19.0%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:47", "level": "SYSTEM", "log": "CPU Usage: 19.7%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:47", "level": "SYSTEM", "log": "CPU Usage: 19.7%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:47", "level": "SYSTEM", "log": "CPU Usage: 19.8%\nRAM Usage: 70.3%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:52", "level": "SYSTEM", "log": "CPU Usage: 22.8%\nRAM Usage: 70.3%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:52", "level": "SYSTEM", "log": "CPU Usage: 22.8%\nRAM Usage: 70.3%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:52", "level": "SYSTEM", "log": "CPU Usage: 22.9%\nRAM Usage: 70.3%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:57", "level": "SYSTEM", "log": "CPU Usage: 32.1%\nRAM Usage: 70.5%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:57", "level": "SYSTEM", "log": "CPU Usage: 32.0%\nRAM Usage: 70.5%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:55:57", "level": "SYSTEM", "log": "CPU Usage: 32.0%\nRAM Usage: 70.5%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:02", "level": "SYSTEM", "log": "CPU Usage: 27.4%\nRAM Usage: 70.1%\nRAM Available: 4.68 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:02", "level": "SYSTEM", "log": "CPU Usage: 27.4%\nRAM Usage: 70.1%\nRAM Available: 4.68 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:02", "level": "SYSTEM", "log": "CPU Usage: 27.6%\nRAM Usage: 70.1%\nRAM Available: 4.68 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:07", "level": "SYSTEM", "log": "CPU Usage: 24.1%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:07", "level": "SYSTEM", "log": "CPU Usage: 24.2%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:07", "level": "SYSTEM", "log": "CPU Usage: 24.1%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:12", "level": "SYSTEM", "log": "CPU Usage: 25.3%\nRAM Usage: 70.0%\nRAM Available: 4.7 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:12", "level": "SYSTEM", "log": "CPU Usage: 25.3%\nRAM Usage: 69.9%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:12", "level": "SYSTEM", "log": "CPU Usage: 25.4%\nRAM Usage: 69.9%\nRAM Available: 4.72 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:17", "level": "SYSTEM", "log": "CPU Usage: 25.1%\nRAM Usage: 70.0%\nRAM Available: 4.7 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:17", "level": "SYSTEM", "log": "CPU Usage: 25.1%\nRAM Usage: 70.0%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:17", "level": "SYSTEM", "log": "CPU Usage: 25.2%\nRAM Usage: 70.0%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:22", "level": "SYSTEM", "log": "CPU Usage: 25.6%\nRAM Usage: 69.9%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:22", "level": "SYSTEM", "log": "CPU Usage: 25.8%\nRAM Usage: 69.9%\nRAM Available: 4.72 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:22", "level": "SYSTEM", "log": "CPU Usage: 25.9%\nRAM Usage: 69.9%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:27", "level": "SYSTEM", "log": "CPU Usage: 28.4%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:27", "level": "SYSTEM", "log": "CPU Usage: 28.1%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:27", "level": "SYSTEM", "log": "CPU Usage: 27.9%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:32", "level": "SYSTEM", "log": "CPU Usage: 27.2%\nRAM Usage: 70.0%\nRAM Available: 4.7 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:32", "level": "SYSTEM", "log": "CPU Usage: 27.2%\nRAM Usage: 70.0%\nRAM Available: 4.7 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:32", "level": "SYSTEM", "log": "CPU Usage: 27.2%\nRAM Usage: 70.0%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:37", "level": "SYSTEM", "log": "CPU Usage: 25.5%\nRAM Usage: 69.9%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:37", "level": "SYSTEM", "log": "CPU Usage: 25.5%\nRAM Usage: 69.9%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:37", "level": "SYSTEM", "log": "CPU Usage: 25.5%\nRAM Usage: 69.9%\nRAM Available: 4.71 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:42", "level": "SYSTEM", "log": "CPU Usage: 31.0%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:42", "level": "SYSTEM", "log": "CPU Usage: 31.1%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:42", "level": "SYSTEM", "log": "CPU Usage: 31.0%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:47", "level": "SYSTEM", "log": "CPU Usage: 24.1%\nRAM Usage: 69.9%\nRAM Available: 4.72 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:47", "level": "SYSTEM", "log": "CPU Usage: 24.0%\nRAM Usage: 69.9%\nRAM Available: 4.72 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:47", "level": "SYSTEM", "log": "CPU Usage: 24.0%\nRAM Usage: 69.9%\nRAM Available: 4.72 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:52", "level": "SYSTEM", "log": "CPU Usage: 26.1%\nRAM Usage: 69.9%\nRAM Available: 4.72 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:52", "level": "SYSTEM", "log": "CPU Usage: 26.1%\nRAM Usage: 69.9%\nRAM Available: 4.72 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:52", "level": "SYSTEM", "log": "CPU Usage: 25.8%\nRAM Usage: 69.9%\nRAM Available: 4.72 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:57", "level": "SYSTEM", "log": "CPU Usage: 19.2%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:57", "level": "SYSTEM", "log": "CPU Usage: 19.2%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:56:57", "level": "SYSTEM", "log": "CPU Usage: 19.2%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:02", "level": "SYSTEM", "log": "CPU Usage: 19.5%\nRAM Usage: 69.7%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:02", "level": "SYSTEM", "log": "CPU Usage: 19.2%\nRAM Usage: 69.7%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:03", "level": "SYSTEM", "log": "CPU Usage: 19.4%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:07", "level": "SYSTEM", "log": "CPU Usage: 23.3%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:07", "level": "SYSTEM", "log": "CPU Usage: 23.7%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:08", "level": "SYSTEM", "log": "CPU Usage: 23.7%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:12", "level": "SYSTEM", "log": "CPU Usage: 19.2%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:12", "level": "SYSTEM", "log": "CPU Usage: 19.0%\nRAM Usage: 69.8%\nRAM Available: 4.73 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:13", "level": "SYSTEM", "log": "CPU Usage: 18.9%\nRAM Usage: 69.8%\nRAM Available: 4.73 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:17", "level": "SYSTEM", "log": "CPU Usage: 20.5%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:17", "level": "SYSTEM", "log": "CPU Usage: 20.5%\nRAM Usage: 69.8%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:18", "level": "SYSTEM", "log": "CPU Usage: 20.6%\nRAM Usage: 69.8%\nRAM Available: 4.73 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:22", "level": "SYSTEM", "log": "CPU Usage: 17.9%\nRAM Usage: 69.7%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:23", "level": "SYSTEM", "log": "CPU Usage: 18.0%\nRAM Usage: 69.7%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:23", "level": "SYSTEM", "log": "CPU Usage: 18.2%\nRAM Usage: 69.7%\nRAM Available: 4.74 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:27", "level": "SYSTEM", "log": "CPU Usage: 19.9%\nRAM Usage: 69.7%\nRAM Available: 4.75 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:28", "level": "SYSTEM", "log": "CPU Usage: 19.8%\nRAM Usage: 69.7%\nRAM Available: 4.75 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:28", "level": "SYSTEM", "log": "CPU Usage: 19.5%\nRAM Usage: 69.7%\nRAM Available: 4.75 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:32", "level": "SYSTEM", "log": "CPU Usage: 23.5%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:33", "level": "SYSTEM", "log": "CPU Usage: 23.8%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:33", "level": "SYSTEM", "log": "CPU Usage: 23.8%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:37", "level": "SYSTEM", "log": "CPU Usage: 35.9%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:38", "level": "SYSTEM", "log": "CPU Usage: 36.1%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:38", "level": "SYSTEM", "log": "CPU Usage: 36.0%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:43", "level": "SYSTEM", "log": "CPU Usage: 37.0%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:43", "level": "SYSTEM", "log": "CPU Usage: 37.1%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:43", "level": "SYSTEM", "log": "CPU Usage: 37.2%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:48", "level": "SYSTEM", "log": "CPU Usage: 37.0%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:48", "level": "SYSTEM", "log": "CPU Usage: 37.2%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:48", "level": "SYSTEM", "log": "CPU Usage: 37.4%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:53", "level": "SYSTEM", "log": "CPU Usage: 36.9%\nRAM Usage: 71.3%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:53", "level": "SYSTEM", "log": "CPU Usage: 36.7%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:53", "level": "SYSTEM", "log": "CPU Usage: 36.6%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.12 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:58", "level": "SYSTEM", "log": "CPU Usage: 44.0%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:58", "level": "SYSTEM", "log": "CPU Usage: 45.0%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:57:58", "level": "SYSTEM", "log": "CPU Usage: 45.7%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.05 GB"}
+
+{"timestamp": "2026-01-22 14:58:03", "level": "SYSTEM", "log": "CPU Usage: 67.4%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:03", "level": "SYSTEM", "log": "CPU Usage: 67.9%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:03", "level": "SYSTEM", "log": "CPU Usage: 67.2%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:08", "level": "SYSTEM", "log": "CPU Usage: 67.6%\nRAM Usage: 71.4%\nRAM Available: 4.48 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:08", "level": "SYSTEM", "log": "CPU Usage: 67.1%\nRAM Usage: 71.4%\nRAM Available: 4.48 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:08", "level": "SYSTEM", "log": "CPU Usage: 67.7%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:13", "level": "SYSTEM", "log": "CPU Usage: 69.5%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:13", "level": "SYSTEM", "log": "CPU Usage: 69.6%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:14", "level": "SYSTEM", "log": "CPU Usage: 69.6%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:18", "level": "SYSTEM", "log": "CPU Usage: 67.4%\nRAM Usage: 71.4%\nRAM Available: 4.48 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:18", "level": "SYSTEM", "log": "CPU Usage: 67.4%\nRAM Usage: 71.4%\nRAM Available: 4.48 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:19", "level": "SYSTEM", "log": "CPU Usage: 67.3%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:23", "level": "SYSTEM", "log": "CPU Usage: 69.4%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:24", "level": "SYSTEM", "log": "CPU Usage: 69.2%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:24", "level": "SYSTEM", "log": "CPU Usage: 69.3%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:28", "level": "SYSTEM", "log": "CPU Usage: 67.5%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:29", "level": "SYSTEM", "log": "CPU Usage: 67.6%\nRAM Usage: 71.4%\nRAM Available: 4.48 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:29", "level": "SYSTEM", "log": "CPU Usage: 68.4%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:33", "level": "SYSTEM", "log": "CPU Usage: 70.4%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:34", "level": "SYSTEM", "log": "CPU Usage: 70.3%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:34", "level": "SYSTEM", "log": "CPU Usage: 69.6%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:38", "level": "SYSTEM", "log": "CPU Usage: 68.2%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:39", "level": "SYSTEM", "log": "CPU Usage: 68.3%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:39", "level": "SYSTEM", "log": "CPU Usage: 68.5%\nRAM Usage: 71.3%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:43", "level": "SYSTEM", "log": "CPU Usage: 68.6%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:44", "level": "SYSTEM", "log": "CPU Usage: 70.9%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:44", "level": "SYSTEM", "log": "CPU Usage: 71.6%\nRAM Usage: 71.5%\nRAM Available: 4.47 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.07 GB"}
+
+{"timestamp": "2026-01-22 14:58:48", "level": "SYSTEM", "log": "CPU Usage: 74.5%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:49", "level": "SYSTEM", "log": "CPU Usage: 72.0%\nRAM Usage: 71.2%\nRAM Available: 4.52 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:49", "level": "SYSTEM", "log": "CPU Usage: 71.0%\nRAM Usage: 71.2%\nRAM Available: 4.52 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:53", "level": "SYSTEM", "log": "CPU Usage: 73.6%\nRAM Usage: 71.3%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:54", "level": "SYSTEM", "log": "CPU Usage: 73.8%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:54", "level": "SYSTEM", "log": "CPU Usage: 74.6%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:58", "level": "SYSTEM", "log": "CPU Usage: 73.6%\nRAM Usage: 71.3%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:59", "level": "SYSTEM", "log": "CPU Usage: 73.6%\nRAM Usage: 71.3%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:58:59", "level": "SYSTEM", "log": "CPU Usage: 72.6%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:03", "level": "SYSTEM", "log": "CPU Usage: 71.6%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:04", "level": "SYSTEM", "log": "CPU Usage: 71.0%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:04", "level": "SYSTEM", "log": "CPU Usage: 71.3%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:08", "level": "SYSTEM", "log": "CPU Usage: 71.8%\nRAM Usage: 71.2%\nRAM Available: 4.51 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:09", "level": "SYSTEM", "log": "CPU Usage: 74.1%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:09", "level": "SYSTEM", "log": "CPU Usage: 74.4%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:13", "level": "SYSTEM", "log": "CPU Usage: 74.7%\nRAM Usage: 71.3%\nRAM Available: 4.5 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:14", "level": "SYSTEM", "log": "CPU Usage: 72.8%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:14", "level": "SYSTEM", "log": "CPU Usage: 72.7%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:18", "level": "SYSTEM", "log": "CPU Usage: 74.6%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:19", "level": "SYSTEM", "log": "CPU Usage: 75.8%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:19", "level": "SYSTEM", "log": "CPU Usage: 75.9%\nRAM Usage: 71.4%\nRAM Available: 4.49 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:23", "level": "SYSTEM", "log": "CPU Usage: 81.8%\nRAM Usage: 71.9%\nRAM Available: 4.41 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:24", "level": "SYSTEM", "log": "CPU Usage: 84.1%\nRAM Usage: 72.1%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:24", "level": "SYSTEM", "log": "CPU Usage: 84.3%\nRAM Usage: 72.1%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:28", "level": "SYSTEM", "log": "CPU Usage: 83.6%\nRAM Usage: 72.1%\nRAM Available: 4.37 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:29", "level": "SYSTEM", "log": "CPU Usage: 82.2%\nRAM Usage: 72.1%\nRAM Available: 4.37 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:29", "level": "SYSTEM", "log": "CPU Usage: 82.1%\nRAM Usage: 72.1%\nRAM Available: 4.37 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:33", "level": "SYSTEM", "log": "CPU Usage: 78.5%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:34", "level": "SYSTEM", "log": "CPU Usage: 78.9%\nRAM Usage: 72.1%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:34", "level": "SYSTEM", "log": "CPU Usage: 78.8%\nRAM Usage: 72.1%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:38", "level": "SYSTEM", "log": "CPU Usage: 77.2%\nRAM Usage: 72.1%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:39", "level": "SYSTEM", "log": "CPU Usage: 75.5%\nRAM Usage: 72.0%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:39", "level": "SYSTEM", "log": "CPU Usage: 75.3%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:43", "level": "SYSTEM", "log": "CPU Usage: 76.0%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:44", "level": "SYSTEM", "log": "CPU Usage: 78.1%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:44", "level": "SYSTEM", "log": "CPU Usage: 78.0%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:48", "level": "SYSTEM", "log": "CPU Usage: 76.3%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:49", "level": "SYSTEM", "log": "CPU Usage: 74.2%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:49", "level": "SYSTEM", "log": "CPU Usage: 74.4%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:53", "level": "SYSTEM", "log": "CPU Usage: 76.3%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:54", "level": "SYSTEM", "log": "CPU Usage: 78.4%\nRAM Usage: 72.1%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:54", "level": "SYSTEM", "log": "CPU Usage: 78.5%\nRAM Usage: 72.0%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:58", "level": "SYSTEM", "log": "CPU Usage: 76.0%\nRAM Usage: 72.0%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:59", "level": "SYSTEM", "log": "CPU Usage: 74.6%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 14:59:59", "level": "SYSTEM", "log": "CPU Usage: 74.3%\nRAM Usage: 72.0%\nRAM Available: 4.39 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:03", "level": "SYSTEM", "log": "CPU Usage: 78.0%\nRAM Usage: 72.1%\nRAM Available: 4.37 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:04", "level": "SYSTEM", "log": "CPU Usage: 78.4%\nRAM Usage: 72.0%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:04", "level": "SYSTEM", "log": "CPU Usage: 78.4%\nRAM Usage: 72.0%\nRAM Available: 4.38 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:08", "level": "SYSTEM", "log": "CPU Usage: 54.0%\nRAM Usage: 70.4%\nRAM Available: 4.64 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:09", "level": "SYSTEM", "log": "CPU Usage: 42.3%\nRAM Usage: 70.4%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:09", "level": "SYSTEM", "log": "CPU Usage: 41.2%\nRAM Usage: 70.4%\nRAM Available: 4.65 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:13", "level": "SYSTEM", "log": "CPU Usage: 22.8%\nRAM Usage: 70.5%\nRAM Available: 4.63 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:14", "level": "SYSTEM", "log": "CPU Usage: 25.4%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:14", "level": "SYSTEM", "log": "CPU Usage: 25.8%\nRAM Usage: 70.5%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:18", "level": "SYSTEM", "log": "CPU Usage: 28.1%\nRAM Usage: 70.5%\nRAM Available: 4.63 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:19", "level": "SYSTEM", "log": "CPU Usage: 26.2%\nRAM Usage: 70.5%\nRAM Available: 4.63 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:19", "level": "SYSTEM", "log": "CPU Usage: 25.6%\nRAM Usage: 70.5%\nRAM Available: 4.63 GB\nDisk | Total: 182.16 GB | Used: 148.1 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:23", "level": "SYSTEM", "log": "CPU Usage: 24.7%\nRAM Usage: 70.4%\nRAM Available: 4.64 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:24", "level": "SYSTEM", "log": "CPU Usage: 27.0%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:24", "level": "SYSTEM", "log": "CPU Usage: 26.9%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:28", "level": "SYSTEM", "log": "CPU Usage: 26.9%\nRAM Usage: 70.5%\nRAM Available: 4.63 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:29", "level": "SYSTEM", "log": "CPU Usage: 25.3%\nRAM Usage: 70.6%\nRAM Available: 4.61 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:29", "level": "SYSTEM", "log": "CPU Usage: 26.1%\nRAM Usage: 70.5%\nRAM Available: 4.62 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:33", "level": "SYSTEM", "log": "CPU Usage: 26.6%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:34", "level": "SYSTEM", "log": "CPU Usage: 29.7%\nRAM Usage: 70.2%\nRAM Available: 4.68 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:34", "level": "SYSTEM", "log": "CPU Usage: 28.9%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:38", "level": "SYSTEM", "log": "CPU Usage: 23.8%\nRAM Usage: 70.2%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:39", "level": "SYSTEM", "log": "CPU Usage: 21.3%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:39", "level": "SYSTEM", "log": "CPU Usage: 21.4%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:43", "level": "SYSTEM", "log": "CPU Usage: 25.3%\nRAM Usage: 70.1%\nRAM Available: 4.69 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:44", "level": "SYSTEM", "log": "CPU Usage: 26.2%\nRAM Usage: 70.2%\nRAM Available: 4.67 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:44", "level": "SYSTEM", "log": "CPU Usage: 26.2%\nRAM Usage: 70.3%\nRAM Available: 4.66 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:49", "level": "SYSTEM", "log": "CPU Usage: 21.2%\nRAM Usage: 69.6%\nRAM Available: 4.76 GB\nDisk | Total: 182.16 GB | Used: 148.11 GB | Free: 34.06 GB"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "ALERT", "log": "System Resource Monitor stopped by user"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "ERROR", "log": "Application terminated using KeyboardInterrupt"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "SYSTEM", "log": "Initializing monitor controller"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "ERROR", "log": "Exception in MonitorController.start_monitors: 'Monitoring' object has no attribute 'cpu_monitor'"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "ALERT", "log": "Stopping all monitors"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "ERROR", "log": "Monitoring stopped by user"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "SYSTEM", "log": "System Resource Monitor started"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "ALERT", "log": "System Resource Monitor stopped by user"}
+
+{"timestamp": "2026-01-22 15:00:52", "level": "ERROR", "log": "Application terminated using KeyboardInterrupt"}
+
