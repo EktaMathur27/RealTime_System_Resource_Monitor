@@ -69,7 +69,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-Himanshu Rathore
+Ekta Mathur
 
 ---
 
